@@ -45,7 +45,8 @@ public class HomePage {
 	@FindBy(linkText="Products")
 	private WebElement productLink;
 	
-	
+	@FindBy(linkText="Email")
+	private WebElement emailLink;
 	
 	
 	//getter method //provide single element access means single action
@@ -72,6 +73,11 @@ public class HomePage {
 	public  WebElement getProductLink() {
 		return productLink;
 	}
+	
+	public  WebElement getEmailLink() {
+		return emailLink;
+	}
+	
 
 
 
