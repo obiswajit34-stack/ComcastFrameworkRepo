@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-09-01T10:48:51 IST" name="Default suite" finished-at="2026-09-01T10:49:27 IST" duration-ms="36433">
+    <groups>
+      <group name="smokeTest">
+        <method signature="CreateOrganizationTest.createOrganizationTest()[pri:0, instance:create.Org.Test.CreateOrganizationTest@3d285d7e]" name="createOrganizationTest" class="create.Org.Test.CreateOrganizationTest"/>
+      </group> <!-- smokeTest -->
+    </groups>
+    <test started-at="2026-09-01T10:48:51 IST" name="Default test" finished-at="2026-09-01T10:49:27 IST" duration-ms="36433">
+      <class name="create.Org.Test.CreateOrganizationTest">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:create.Org.Test.CreateOrganizationTest@3d285d7e]" started-at="2026-09-01T10:48:40 IST" name="configBS" finished-at="2026-09-01T10:48:51 IST" duration-ms="10906" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method is-config="true" signature="ConfigBC()[pri:0, instance:create.Org.Test.CreateOrganizationTest@3d285d7e]" started-at="2026-09-01T10:48:51 IST" name="ConfigBC" finished-at="2026-09-01T10:48:53 IST" duration-ms="1883" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:create.Org.Test.CreateOrganizationTest@3d285d7e]" started-at="2026-09-01T10:48:53 IST" name="configBM" finished-at="2026-09-01T10:49:05 IST" duration-ms="12114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="createOrganizationTest()[pri:0, instance:create.Org.Test.CreateOrganizationTest@3d285d7e]" started-at="2026-09-01T10:49:05 IST" name="createOrganizationTest" finished-at="2026-09-01T10:49:24 IST" duration-ms="18847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrganizationTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:create.Org.Test.CreateOrganizationTest@3d285d7e]" started-at="2026-09-01T10:49:24 IST" name="configAM" finished-at="2026-09-01T10:49:27 IST" duration-ms="3161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAc()[pri:0, instance:create.Org.Test.CreateOrganizationTest@3d285d7e]" started-at="2026-09-01T10:49:27 IST" name="configAc" finished-at="2026-09-01T10:49:27 IST" duration-ms="335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAc -->
+        <test-method is-config="true" signature="configAS()[pri:0, instance:create.Org.Test.CreateOrganizationTest@3d285d7e]" started-at="2026-09-01T10:49:27 IST" name="configAS" finished-at="2026-09-01T10:49:27 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- create.Org.Test.CreateOrganizationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
